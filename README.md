@@ -8,7 +8,7 @@ My main fields of research are: Ecology & Evolution / Developmental Biology / Ge
 
 My main research methods include: Genomics, Bioinformatics, Geometric morphometrics and to some extant Quantitative Genetics
 
-More informations at: https://quentin-evo.github.io/ 
+More information at: https://quentin-evo.github.io/ 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/HortaQuentin)  
 
